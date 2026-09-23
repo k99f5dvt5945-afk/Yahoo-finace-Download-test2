@@ -1,0 +1,26 @@
+{
+  "name": "yahoo-finace-download-test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k99f5dvt5945-afk/Yahoo-finace-Download-test2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/k99f5dvt5945-afk/Yahoo-finace-Download-test2/issues"
+  },
+  "homepage": "https://github.com/k99f5dvt5945-afk/Yahoo-finace-Download-test2#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2"
+  }
+}

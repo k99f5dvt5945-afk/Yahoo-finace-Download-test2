@@ -1,0 +1,8 @@
+{
+  "appId": "com.k99f5dvt5945afk.stockapp",
+  "appName": "股票查詢",
+  "webDir": "www",
+  "server": {
+    "url": "https://stockapptest.streamlit.app"
+  }
+}

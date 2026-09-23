@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">股票查詢</string>
+    <string name="title_activity_main">股票查詢</string>
+    <string name="package_name">com.k99f5dvt5945afk.stockapp</string>
+    <string name="custom_url_scheme">com.k99f5dvt5945afk.stockapp</string>
+</resources>
